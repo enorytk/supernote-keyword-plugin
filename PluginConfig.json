@@ -1,0 +1,14 @@
+{
+  "name": "KeywordSuggestor",
+  "desc": "",
+  "iconPath": "",
+  "versionName": "0.0.1",
+  "versionCode": "1",
+  "pluginID": "ck3cge7dt79q3gv2",
+  "pluginKey": "KeywordSuggestor",
+  "jsMainPath": "index",
+  "uses-permissions": [
+    "plugin.permission.FILE:READ",
+    "plugin.permission.FILE:WRITE"
+  ]
+}
